@@ -1,0 +1,23 @@
+Team A
+playerA1,Forward,5
+playerA2,Forward,3
+playerA3,Forward,0
+playerA4,Forward,3
+playerA5,Forward,3
+playerA6,Midfielder,0
+playerA7,Midfielder,1
+playerA8,Midfielder,1
+playerA9,Midfielder,0
+playerA10,Midfielder,0
+playerA11,Midfielder,2
+playerA12,Midfielder,2
+playerA13,Midfielder,1
+playerA14,Defender,0
+playerA15,Defender,0
+playerA16,Defender,0
+playerA17,Defender,0
+playerA18,Defender,0
+playerA19,Reserve,0
+playerA20,Midfielder,0
+playerA21,Reserve,0
+playerA22,Defender,0
